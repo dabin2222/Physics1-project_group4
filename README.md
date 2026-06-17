@@ -29,9 +29,3 @@ pip install numpy matplotlib
 4. The calculated metrics will be displayed immediately, and a window showing the motion graphs will pop up automatically.
 ```
 
----
-
-## Student Information
-- Student ID: 202611211
-- Name: Dabin Joo
-- group: 4
